@@ -1,7 +1,7 @@
 # VideoClipper
-Clips/Cuts the video into multiple videos using silence time as delimiter.
+Clips/Cuts the video into multiple videos using silence time as delimiter.\n
 Only for unix/ubuntu
-Pre installing : 
+Pre installing: 
 1.ffmpeg - "sudo apt install ffmpeg"
 2.Python 3.5+
 Steps:
