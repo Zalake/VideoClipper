@@ -1,6 +1,9 @@
 # VideoClipper
 Clips/Cuts the video into multiple videos using silence time as delimiter.
-
+Only for unix/ubuntu
+Pre installing : 
+1.ffmpeg - "sudo apt install ffmpeg"
+2.Python 3.5+
 Steps:
 1. Place the video file in the same folder as this project
 2. Give permission to run videoClipping.sh script using "chmod 775 ./videoClipping.sh"
